@@ -53,7 +53,7 @@ python main.py
 
 Now, you are ready to start generating you own train data.
 
-![capture191014](https://user-images.githubusercontent.com/12293076/66724929-d76f9600-ee66-11e9-95af-8b7e8a0fa194.PNG)
+![image](https://github.com/Dinci-Wang/rotateROI/blob/main/rotate%20ROI/Results/plane.png)
 
 You will see the window above. Press `Input Path` button and select a directory where your training images are. If you check `Crop Mode`, your bounding boxes will be saved separately by cropping. You can specify where crop results to be saved by pressing `Save Path` button. And then, press `Next` button to start the main process.
 
